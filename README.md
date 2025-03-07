@@ -10,7 +10,7 @@ Este repositório contém os desafios, exercícios e códigos práticos do curso
 - 🖥️ **IDE:** IntelliJ IDEA ✅
 
 ## 🎯 Aprendizados
-
+```
 ✅ Entrada e Saída de Dados
 ✅ Funções e Métodos  
 ✅ Operadores lógicos, relacionais e aritiméticos
@@ -20,7 +20,7 @@ Este repositório contém os desafios, exercícios e códigos práticos do curso
 🔄 Funções  
 🔄 Vetores
 🔄 Matrizes
-
+```
 ## 📂 Estrutura do Repositório
 
 ```
