@@ -2,7 +2,7 @@ package RepetitionStructure.repetition;
 
 import java.util.Scanner;
 
-public class count_for_user {
+public class CountForUser {
     public static void main(String[] args) {
 
     int numbUser, cont = 1;

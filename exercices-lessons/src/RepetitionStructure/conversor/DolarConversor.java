@@ -3,7 +3,7 @@ package RepetitionStructure.conversor;
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
-public class dolar_conversor {
+public class DolarConversor {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);

@@ -2,7 +2,7 @@ package RepetitionStructure.repetition;
 
 import java.util.Scanner;
 
-public class count_jumps_user {
+public class CountJumpsUser {
     public static void main(String[] args) {
 
         int numbUser, jumpnumb, cont = 1;

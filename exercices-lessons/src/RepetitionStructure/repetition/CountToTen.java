@@ -1,6 +1,6 @@
 package RepetitionStructure.repetition;
 
-public class count_to_ten {
+public class CountToTen {
     public static void main(String[] args) {
 
         int contador = 10;
