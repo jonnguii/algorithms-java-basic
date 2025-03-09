@@ -1,8 +1,8 @@
-package RepetitionStructure;
+package RepetitionStructure.util;
 
 import java.util.Scanner;
 
-public class Somador {
+public class Adder {
     public static void main(String[] args) {
 
         int cont = 1, num, top = Integer.MIN_VALUE, bot = Integer.MAX_VALUE;

@@ -1,8 +1,8 @@
-package RepetitionStructure;
+package RepetitionStructure.repetition;
 
 import java.util.Scanner;
 
-public class ContJumpsUser {
+public class count_jumps_user {
     public static void main(String[] args) {
 
         int numbUser, jumpnumb, cont = 1;
