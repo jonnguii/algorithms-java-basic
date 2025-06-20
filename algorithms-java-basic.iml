@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <annotation-paths>
+      <root url="file://$MODULE_DIR$" />
+    </annotation-paths>
+    <javadoc-paths>
+      <root url="file://$MODULE_DIR$" />
+    </javadoc-paths>
+    <content url="file://C:/Program Files/Java/jdk-17" />
+    <orderEntry type="jdk" jdkName="17" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
