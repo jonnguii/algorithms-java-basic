@@ -25,5 +25,5 @@ Este repositório contém os desafios, exercícios e códigos práticos do curso
 
 ```
 📌 **exercices-lessons/src** → Exercícios propostos pelo curso
-📌 ""**code inside package**"" → Em cada pacote há seu respectivo leque de váriaveis de código
+📌 **out/production/algorithms-java-basics** → Em cada pacote há seu respectivo leque de váriaveis de código
 ```
