@@ -9,7 +9,6 @@ public class Impars {
         int x = leitor.nextInt();
         int cont = 0;
 
-//continue a solucao de acordo com o solicitado no enunciado
         while (cont <6) {
 
             if (x % 0 == 0) {
