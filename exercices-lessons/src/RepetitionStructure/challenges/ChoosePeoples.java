@@ -31,25 +31,33 @@ public class ChoosePeoples {
                     case "1":
                         corCabelo = ("Preto");
                         valido = true;
-                        System.out.println(corCabelo);
+                        System.out.println("---------");
+                        System.out.println("Selecionado: " + corCabelo);
+                        System.out.println("---------");
                         break;
 
                     case "2":
                         corCabelo = ("Castanho");
                         valido = true;
-                        System.out.println(corCabelo);
+                        System.out.println("---------");
+                        System.out.println("Selecionado: " + corCabelo);
+                        System.out.println("---------");
                         break;
 
                     case "3":
                         corCabelo = ("Loiro");
                         valido = true;
-                        System.out.println(corCabelo);
+                        System.out.println("---------");
+                        System.out.println("Selecionado: " + corCabelo);
+                        System.out.println("---------");
                         break;
 
                     case "4":
                         corCabelo = ("Ruivo");
                         valido = true;
-                        System.out.println(corCabelo);
+                        System.out.println("---------");
+                        System.out.println("Selecionado: " + corCabelo);
+                        System.out.println("---------");
                         break;
 
                     default:
@@ -66,7 +74,7 @@ public class ChoosePeoples {
             if (genero.equalsIgnoreCase("F") && idade >= 25 && idade <= 30 && corCabelo.equalsIgnoreCase("Loiro")) {
                 contF++; }
 
-            System.out.println("Quer continuar? [s/n]"); //o usuário encerra a aplicação e mostra os valores condicionais
+            System.out.println("Quer continuar? [S/N]"); //o usuário encerra a aplicação e mostra os valores condicionais
             String continuar = scn.next(); //leitura de entrada
 
             if (continuar.equalsIgnoreCase("n")) { //encerra o loop
@@ -75,7 +83,7 @@ public class ChoosePeoples {
 
         }
 
-        System.out.println("Total de homens com mais de 18 e cabelos castanhos = " + contM);
+        System.out.println("Total de homens com mais de 18 anos e cabelos castanhos = " + contM);
         System.out.println("Total de mulheres entre 25 e 30 anos com cabelos loiros = " + contF);
     }
 
