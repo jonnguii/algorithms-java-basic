@@ -2,7 +2,7 @@ package RepetitionStructure.repetition;
 
 import java.util.Scanner;
 
-public class CountToTen {
+public class CountToTenWhile {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int contador = 0;
