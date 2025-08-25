@@ -16,8 +16,8 @@ Este repositório contém os desafios, exercícios e códigos práticos do curso
 ✅ Operadores lógicos, relacionais e aritiméticos
 ✅ Estruturas Condicionais (if, else, switch)  
 ✅ Laços de Repetição (for, while, do-while)  
-🔄 Procedimentos 
-🔄 Funções  
+✅ Procedimentos 
+✅ Funções  
 🔄 Vetores
 🔄 Matrizes
 ```
