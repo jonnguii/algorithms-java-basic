@@ -1,8 +1,8 @@
 # 📌 Algoritmos - Curso em Vídeo
 
-Este repositório contém os desafios, exercícios e códigos práticos do curso de **Algoritmos** do ilustre professor **Gustavo Guanabara**. 📚✨
+Este repositório contém os desafios, exercícios e códigos práticos do curso de **Algoritmos** do ilustre professor **Gustavo Guanabara** e outros exercicios de lógica para treinar. 
 
-🚀 **Objetivo:** Reforçar minha habilidade em **lógica de programação** e aprimorar minha experiência com **Java**.
+🚀 **Objetivo:** Reforçar minha habilidade em **lógica de programação**
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -20,10 +20,4 @@ Este repositório contém os desafios, exercícios e códigos práticos do curso
 ✅ Funções  
 🔄 Vetores
 🔄 Matrizes
-```
-## 📂 Estrutura do Repositório
-
-```
-📌 **exercices-lessons/src** → Exercícios propostos pelo curso
-📌 **out/production/algorithms-java-basics** → Em cada pacote há seu respectivo leque de váriaveis de código
 ```
