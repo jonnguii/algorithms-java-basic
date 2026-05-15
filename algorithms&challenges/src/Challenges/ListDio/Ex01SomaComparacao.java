@@ -2,7 +2,7 @@ package Challenges.ListDio;
 
 import java.util.Scanner;
 
-public class Ex01SomaComparação {
+public class Ex01SomaComparacao {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
@@ -14,9 +14,9 @@ public class Ex01SomaComparação {
         float valueC = sc.nextFloat();
 
         float soma = (valueA + valueB);
-        System.out.println(valueA + " + " + valueB + " = " + soma);
+        System.out.printf("%.2f + %.2f + = %.2f", valueA, valueB, soma);
         if (soma < valueC) {
-            System.out.println("e essa soma é menor que " + valueC);
+            System.out.printf(" e o resultado dessa soma é menor que %.2f ", valueC);
         }
 
 
