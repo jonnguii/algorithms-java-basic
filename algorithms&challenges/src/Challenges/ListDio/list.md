@@ -13,6 +13,8 @@ Ex05 - Quantidade de Salários Mínimos
 Ex06 - Reajuste de 5%
 Ex07 - Verificação de Valores Booleanos
 Ex08 - Ordem Decrescente de Três Valores
+Ex08_1 - Maior e Menor dentre Três Valores
+Ex08_2 - Ordem Crescente Decrescente ou Desordem dentre Três Valores
 Ex09 - Cálculo de IMC
 Ex10 - Média de Três Notas
 Ex11 - Média Escolar e Situação do Aluno
@@ -50,6 +52,8 @@ imprima na tela o resultado. (Base para o Salário mínimo R$ 1.293,20).
 7 - Faça um algoritmo que leia dois valores booleanos (lógicos) e determine se ambos são VERDADEIRO ou FALSO.
 
 8 - Faça um algoritmo que leia três valores inteiros diferentes e imprima na tela os valores em ordem decrescente.
+8.1 - Faça um algoritmo que leia três valores inteiros e mostre apenas o maior e o menor valor.
+8.2 - Faça um algoritmo que leia três valores inteiros e diga se eles estão em ordem crescente, ordem decrescente ou desordenados.
 
 9 - Faça um algoritmo que calcule o IMC (Índice de Massa Corporal) de uma pessoa, leia o seu peso e sua altura e imprima na tela sua condição de acordo com a tabela abaixo:
 
