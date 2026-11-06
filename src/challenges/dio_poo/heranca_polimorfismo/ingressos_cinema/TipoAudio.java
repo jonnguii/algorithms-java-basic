@@ -1,4 +1,4 @@
-package challenges.dio_poo.heranca_polimorfismo;
+package challenges.dio_poo.heranca_polimorfismo.ingressos_cinema;
 
 public enum TipoAudio {
 
