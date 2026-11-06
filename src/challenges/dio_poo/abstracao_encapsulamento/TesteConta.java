@@ -14,14 +14,15 @@ public class TesteConta {
 
         int opcao = 0;
 
-        while (opcao != 6) {
+        while (opcao != 7) {
             System.out.println("\n--- MENU CONTA BANCARIA ---");
             System.out.println("1 - Consultar Saldo");
             System.out.println("2 - Consultar Cheque Especial");
             System.out.println("3 - Depositar");
             System.out.println("4 - Sacar");
             System.out.println("5 - Verificar se esta usando Cheque Especial");
-            System.out.println("6 - Sair");
+            System.out.println("6 - Pagar boleto");
+            System.out.println("7 - Sair");
             System.out.print("Opcao: ");
 
             opcao = scanner.nextInt();
@@ -58,6 +59,13 @@ public class TesteConta {
                     break;
 
                 case 6:
+                    System.out.println("Valor do boleto: ");
+                    BigDecimal valorBoleto = new BigDecimal(scanner.next().replace(",", "."));
+                    conta.pagarBoleto(valorBoleto);
+                    System.out.println("Boleto pago com suceso");
+                    break;
+
+                case 7:
                     System.out.println("Saindo...");
                     break;
 
